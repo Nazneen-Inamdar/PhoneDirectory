@@ -1,0 +1,36 @@
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;}
+
+h1{
+    color:orange;
+    font-weight:bold;
+}
+
+.deteting{
+    padding: 10px;
+    color : blue;
+    font-size: 14px;
+}
+.adding{
+    padding: 10px;
+    color :palevioletred ;
+    font-size: 14px;
+    margin-top: 18px;
+}
+input{
+    padding: 6px  61 px ;
+    margin-bottom: 10px;
+}
